@@ -121,7 +121,7 @@ An electronic folder structure for all your important personal finance documents
 
 -   Beneficiary designations
 
--	  Retirement account withdrawals
+-   Retirement account withdrawals
 
 ###TAX RECORDS
 
