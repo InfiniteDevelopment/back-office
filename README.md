@@ -3,7 +3,7 @@
 
 An electronic folder structure for all your important personal finance documents
 
-##AUTO: 
+###AUTO: 
 
 -	Titles to any automobiles
 
@@ -13,7 +13,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Auto-loan documents
 
-##CREDIT CARDS 
+###CREDIT CARDS 
 
 -	Photocopies of your active credit cards, both front and back, with (800) service numbers visible
 
@@ -23,7 +23,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Copies of letters closing credit-card accounts
 
-##ESTATE PLANNING
+###ESTATE PLANNING
 
 -	Advanced directive and durable power of attorney for health care
 
@@ -37,7 +37,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Contracts for funeral or memorial arrangements, and documentation of prepaid fees to cemetery and/or funeral home
 
-##HOME OWNERSHIP
+###HOME OWNERSHIP
 
 -	Deeds
 
@@ -59,7 +59,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Copy of property in case of loss
 
-##INVESTMENT RECORDS
+###INVESTMENT RECORDS
 
 -	Treasuries/Series I/Series EE/notes
 
@@ -73,7 +73,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Copies of all investment-account application forms and agreements
 
-##PERSONAL DOCUMENTS
+###PERSONAL DOCUMENTS
 
 -	Birth certificate(s)
 
@@ -97,7 +97,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Death certificate(s)
 
-##PERSONAL INSURANCE
+###PERSONAL INSURANCE
 
 -	Life insurance policy
 
@@ -113,8 +113,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Beneficiary designations
 
-##RETIREMENT
-
+###RETIREMENT
 
 -   401k summary description, annual plan statement, and annual benefit statement
 
@@ -124,7 +123,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	  Retirement account withdrawals
 
-##TAX RECORDS
+###TAX RECORDS
 
 -	Tax returns for forever (at least 3 years)
 
