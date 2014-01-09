@@ -37,7 +37,9 @@ An electronic folder structure for all your important personal finance documents
 
 -	Contracts for funeral or memorial arrangements, and documentation of prepaid fees to cemetery and/or funeral home
 
-###HOME OWNERSHIP
+###HOME 
+
+- Rental Agreement
 
 -	Deeds
 
@@ -55,7 +57,7 @@ An electronic folder structure for all your important personal finance documents
 
 -	Appraisals and evaluation of valuable items such as jewelry, art, and antiques
 
--	Fire and flood insurance
+-	Fire/flood/rent insurance
 
 -	Copy of property in case of loss
 
